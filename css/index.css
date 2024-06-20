@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    background-color: #FFE6EC;
+    line-height: 100px;
+    text-align: center;
+}
+
+#mainlogo {
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    margin-inline: 5%;
+}
+
+#menu {
+    display: flex;
+    list-style-type: none;
+}
